@@ -94,7 +94,7 @@ def stop_eye_blinking():
 
 # Set up the Groq client
 client = Groq(
-    api_key="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",
+    api_key=" * * * * * * * - A P I   K E Y   H E R E - * * * * * * * ",
 )
 
 messages = []
